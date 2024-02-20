@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ani-jpg-alt
-- 👀 I’m interested in becoming a software developer
+- 👋 Hi, I’m @Ani-jpg-alt aka Anita
 - 🌱 I’m currently learning I.T in University in my second year.
-- 💞️ I’m looking to collaborate on some projects and create some new things
+- 💞️ I’m looking to showcase my work & land a job.
 - 📫 How to reach me anitagmoya@gmail.com
 
 <!---
