@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Ani-jpg-alt aka Anita
-- 🌱 I’m currently learning I.T in University in my second year.
-- 💞️ I’m looking to showcase my work & land a job.
-- 📫 How to reach me anitagmoya@gmail.com
+👋 Hi, I’m Anita
+🌱 I’m currently learning I.T at Richfield Graduate Institute of Technology, in my second year, last semester.
+💻 Currently exploring Python, JavaScript, CSS, and MySQL.
+👔 I'm actively seeking opportunities to demonstrate my skills and secure a rewarding position in the industry.
+📫 How to reach me: anitagmoya@gmail.com
 
 <!---
 Ani-jpg-alt/Ani-jpg-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
